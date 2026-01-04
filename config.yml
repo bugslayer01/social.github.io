@@ -44,7 +44,7 @@ tagline: >-
 links:
   - link:
       icon: "fa-regular fa-file"
-      text: "Resume <span class='link-button-text'>(100+ Posts)</span>"
+      text: "Resume"
       url: "https://resume.dev-ansh.xyz"
       alt: "Devansh's Resume"
       title: "Devansh's Resume"
