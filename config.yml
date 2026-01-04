@@ -22,13 +22,13 @@ plugins:
 google_analytics_id:
 
 # HTML Title
-title: "ZhgChgLi's Links"
+title: "Devansh's Link Tree"
 
 # Avatar image path
 avatar: "./images/profile.jpeg"
 
 # Name section text
-name: "@zhgchgli"
+name: "Devansh Vashishat (@bugslayer01)"
 
 # Tagline section text
 tagline: >-
@@ -43,11 +43,11 @@ tagline: >-
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
   - link:
-      icon: "fa-brands fa-medium"
-      text: "Tech Blog <span class='link-button-text'>(100+ Posts)</span>"
-      url: "https://blog.zhgchg.li"
-      alt: "ZhgChgLi's Tech Blog"
-      title: "ZhgChgLi's Tech Blog"
+      icon: "fa-regular fa-file"
+      text: "Resume <span class='link-button-text'>(100+ Posts)</span>"
+      url: "https://resume.dev-ansh.xyz"
+      alt: "Devansh's Resume"
+      title: "Devansh's Resume"
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
